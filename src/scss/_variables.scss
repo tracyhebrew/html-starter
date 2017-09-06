@@ -1,0 +1,41 @@
+// _variables.scss
+
+
+// Fonts
+// -------------------
+$fontHeading								: 'Helvetica Neue', Helvetica Neue, Arial, sans-serif;
+$fontParagraph							: 'Helvetica Neue', Helvetica Neue, Arial, sans-serif;
+
+
+// Colours
+// -------------------
+
+$colorPrimary 							: #183660; // royal blue
+$colorPrimaryLight					: #5080ae; // light blue
+$colorPrimaryGrey						: #38404d; // blue grey
+
+$colorSecondary 						: #ad202f; // red
+
+$colorGrayDark							: #292929;
+
+$colorText									: $colorPrimaryGrey;
+$colorTextGray							: #dfdfdf;
+$colorBase									: #f0f0f0;
+
+$colorPrimary70							: #737982;
+$colorPrimary50							: #8b9aaf;
+$colorPrimary25							: #cdcfd2;
+$colorPrimary20							: #d1d7df;
+$colorPrimary10							: #e7ebef;
+
+$colorFacebook							: #2845a9;
+$colorTwitter								: #00b2ff;
+$colorInstagram							: #ff005e;
+$colorYoutube								: #cd201f;
+$colorLinkedin							: #0075b6;
+
+$colorError									: #ad1e2e;
+$colorSuccuess							: #00AA00;
+$baseFontSize								: 16;
+
+$transition 								: all 0.3s cubic-bezier(.25,.01,.1,1);
